@@ -38,5 +38,5 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-[callmelokzy.medium.comhttps://callmelokzy.medium.com/](https://callmelokzy.medium.com/)
+https://callmelokzy.medium.com
 <!-- BLOG-POST-LIST:END -->
