@@ -1,42 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# 💫 About Me:
+🥷🏽 Certified Penetration Tester<br>💻 Python coder<br>🌱 Currently Learning Wireless Pentesting<br>💬 Ask me about cyber security related contents<br>💯 Lazy and dumb
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ivishnujs/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ivishnujs&style=flat-square&color=blue" alt="" align="center"/>
-  <br>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-- :closed_lock_with_key: I am a CyberSecurity Enthusiast | Certified Penetration Tester
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmelokzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/callmelokzy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@callmelokzy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmelokzy) 
 
-- :seedling: Write about penetration testing topics ans ctf solving methods 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- :zap: In my free time, I solve CTF labs  on various platforms and read tech articles.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=callmelokzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vishnujs-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivishnujs/)
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=callmelokzy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=callmelokzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=callmelokzy&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/callmelokzy) 
 
----
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-https://callmelokzy.medium.com
-<!-- BLOG-POST-LIST:END -->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
