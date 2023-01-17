@@ -34,12 +34,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=callmelokzy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=callmelokzy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## <h3 align="left">Support:</h3>
+## <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a></p><br><br>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
