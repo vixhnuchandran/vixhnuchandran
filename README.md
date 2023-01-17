@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lokzy</h1>
 <h3 align="center">A passionate Cyber Security Researcher from India</h3>
 
+![tryHackMe](https://tryhackme-badges.s3.amazonaws.com/lokzy.png)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=callmelokzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
