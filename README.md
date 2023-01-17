@@ -1,16 +1,32 @@
 # 💫 About Me:
-🥷🏽 Certified Penetration Tester<br>💻 Python coder<br>🌱 Currently Learning Wireless Pentesting<br>💬 Ask me about cyber security related contents<br>💯 Lazy and dumb
+🥷🏽 Certified Penetration Tester<br>💻 Python coder<br>🌱 Currently Learning Wireless Pentesting<br> 👯 I’m looking to collaborate on **Bug Hunting**<br>💬 Ask me about cyber security related contents<br>💯 Lazy and dumb
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmelokzy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/callmelokzy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@callmelokzy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/callmelokzy) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmelokzy" height="30" width="40" /></a>
+<a href="https://instagram.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callmelokzy" height="30" width="40" /></a>
+<a href="https://medium.com/@callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@callmelokzy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokzy" height="30" width="40" /></a>
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /> </p>
+
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kali](https://img.shields.io/badge/kaliLinux-skyblue?style=for-the-badge&logo=debian&logoColor=red) 
+![BASH-SCRIPT](https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-grey?style=for-the-badge&logo=jupyter&logoColor=orange)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=callmelokzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -18,17 +34,12 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=callmelokzy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=callmelokzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/callmelokzy) 
+  ## <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a></p><br><br>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
