@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥷🏽 Certified Penetration Tester<br>💻 Python coder<br>🌱 Currently Learning Wireless Pentesting<br> 👯 I’m looking to collaborate on **Bug Hunting**<br>💬 Ask me about cyber security related contents<br>💯 Lazy and dumb
+🥷🏽 Certified **Penetration Tester**<br>💻 **Python** coder<br>🌱 Currently Learning **Wireless Pentesting**<br> 👯 I’m looking to collaborate on **Bug Hunting** <br>📝 I regularly write articles on **[medium](https://callmelokzy.medium.com/)**<br>💬 Ask me about cyber security related contents<br>💯 **Lazy** and **dumb**
 
 
 ## 🌐 Socials:
