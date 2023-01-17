@@ -1,4 +1,11 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Lokzy</h1>
+<h3 align="center">A passionate Cyber Security Researcher from India</h3>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=callmelokzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+## 💫 About Me:
 🥷🏽 Certified **Penetration Tester**<br>💻 **Python** coder<br>🌱 Currently Learning **Wireless Pentesting**<br> 👯 I’m looking to collaborate on **Bug Hunting** <br>📝 I regularly write articles on **[medium](https://callmelokzy.medium.com/)**<br>💬 Ask me about cyber security related contents<br>💯 **Lazy** and **dumb**
 
 
@@ -13,7 +20,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /> </p>
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali](https://img.shields.io/badge/kaliLinux-skyblue?style=for-the-badge&logo=debian&logoColor=red) 
 ![BASH-SCRIPT](https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white)
@@ -23,13 +30,10 @@
 ![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=callmelokzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=callmelokzy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
