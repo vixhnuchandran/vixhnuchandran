@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=callmelokzy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=callmelokzy)](https://twitter.com/callmelokzy)
 
 ## <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a></p><br><br>
