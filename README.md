@@ -24,14 +24,19 @@
 
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kali](https://img.shields.io/badge/kaliLinux-skyblue?style=for-the-badge&logo=debian&logoColor=red) 
-![Parrot-OS](https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red) 
-![BASH-SCRIPT](https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-grey?style=for-the-badge&logo=jupyter&logoColor=orange)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=black)
-![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  - 
+![BASH-SCRIPT](https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white) - 
+![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white) - 
+
+![Kali](https://img.shields.io/badge/kaliLinux-blue?style=for-the-badge&logo=debian&logoColor=red) - 
+![Parrot-OS](https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red)  - 
+![Backbox-OS](https://img.shields.io/badge/Backbox-skyblue?style=for-the-badge&logo=ubuntu&logoColor=red)  - 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=debian&logoColor=black)  - 
+
+
+![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-grey?style=for-the-badge&logo=jupyter&logoColor=orange) - 
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=black) - 
 
 
 ## 📊 GitHub Stats:
