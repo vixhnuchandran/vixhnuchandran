@@ -26,6 +26,7 @@
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali](https://img.shields.io/badge/kaliLinux-skyblue?style=for-the-badge&logo=debian&logoColor=red) 
+![Parrot-OS](https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red) 
 ![BASH-SCRIPT](https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-grey?style=for-the-badge&logo=jupyter&logoColor=orange)
