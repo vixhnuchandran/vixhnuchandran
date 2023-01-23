@@ -6,7 +6,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmelokzy&theme=vue"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=callmelokzy">
-<img src="https://github-profile-trophy.vercel.app/?username=callmelokzy"> [![tryHackMe](https://tryhackme-badges.s3.amazonaws.com/lokzy.png)](https://tryhackme.com/p/lokzy)
+
 
 
 ### 💫 About Me:
