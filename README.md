@@ -1,27 +1,33 @@
-<h1 align="center">Hi 👋, I'm Lokzy</h1>
-<h3 align="center">A passionate Cyber Security Researcher from India</h3>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![tryHackMe](https://tryhackme-badges.s3.amazonaws.com/lokzy.png)
-
-<img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /> 
-<img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /> 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## 🏆 GitHub Trophies
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-profile-trophy.vercel.app/?username=callmelokzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /></h1>
+<h3 align="center">A passionate Cyber Security Researcher from India </h3>
 
 
-## 💫 About Me:
-🥷🏽 Certified Penetration Tester
-computer Python coder
-seedling Currently Learning Wireless Pentesting
-dancers I’m looking to collaborate on Bug Hunting
-memo I regularly write articles on medium
-speech_balloon Ask me about cyber security related contents
-100 Lazy and dumb
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmelokzy&theme=vue"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=callmelokzy">
+<img src="https://github-profile-trophy.vercel.app/?username=callmelokzy"> [![tryHackMe](https://tryhackme-badges.s3.amazonaws.com/lokzy.png)](https://tryhackme.com/p/lokzy)
 
 
-## 👨‍🚀 Social 🔝
+### 💫 About Me:
+🥷🏽 Certified Penetration Tester | Python coder | Currently Learning Wireless Pentesting & WebDev | Lazy and dumb
+
+- 🐞 Bug Bounty Platforms 🏹 <br><br>
+[<img src="https://img.shields.io/badge/hackerone-111927?style=for-the-badge&logo=hackerone&logoColor=white">](https://hackerone.com/callmelokzy?type=user)
+[<img src="https://img.shields.io/badge/bugcrowd-E95420?style=for-the-badge&logo=bugcrowd&logoColor=white">](https://medium.com/@callmelokzy)
+[<img src="https://img.shields.io/badge/bugbase-2EC866?style=for-the-badge&logo=bug&logoColor=green">](https://bugbase.in/profile/callmelokzy) &nbsp;&nbsp;
+
+
+- 🛡️ Security Platforms 🥷 <br><br>
+[<img src="https://img.shields.io/badge/TRYHACKME-557C94?style=for-the-badge&logo=tryhackme&logoColor=white">](https://tryhackme.com/p/lokzy) [<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">](https://app.hackthebox.com/profile/1071230)
+[<img src="https://img.shields.io/badge/portswigger-E95420?style=for-the-badge&logo=portswigger&logoColor=orange">](https://medium.com/@callmelokzy) 
+
+- 📝 BLog 🔝 <br><br>
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@callmelokzy) &nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+](https://dev.to/callmelokzy)
+
+- 👨‍🚀 Social 🔝 <br><br>
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/callmelokzy) 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/callmelokzy/) 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/callmelokzy/) 
@@ -30,46 +36,31 @@ speech_balloon Ask me about cyber security related contents
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 ](https://leetcode.com/callmelokzy/) [<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">](https://www.hackerearth.com/@callmelokzy) [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/callmelokzy) 
 
+### 💫 Tech Stack:
+- 💻 Workspace Spec  🔝 <br><br>
+<img src="https://img.shields.io/badge/lenovo%20legion5-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"> <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
 
 
+ - 👨‍💻 Languages 🔝 <br><br>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+- 👨‍💻 IDE 🔝 <br><br>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 
 
-<img src="">
+- 💻 OS 🔝 <br><br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red">  <img src="https://img.shields.io/badge/Backbox-skyblue?style=for-the-badge&logo=ubuntu&logoColor=red"> <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
-🌐
+- 💻 Virtualization 🔝 <br><br>
+<img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
+- 💻 Terminal 🔝 <br><br>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 
+- 🌐 Web Browsers 🔝 <br><br>
+<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"> <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"> <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
 
-## 📝 Blog 🔝
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@callmelokzy) &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-](https://dev.to/callmelokzy)
-
-
-
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  - 
- ![BASH-SCRIPT](https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white) - 
- ![SQL](https://img.shields.io/badge/sql-blue?style=for-the-badge&logo=mysql&logoColor=white) - 
-![Kali](https://img.shields.io/badge/kaliLinux-blue?style=for-the-badge&logo=debian&logoColor=red) - 
-![Parrot-OS](https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red)  - 
-![Backbox-OS](https://img.shields.io/badge/Backbox-skyblue?style=for-the-badge&logo=ubuntu&logoColor=red)  - 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=debian&logoColor=black)  - 
-![Jupyter Notebook](https://img.shields.io/badge/JupyterNotebook-grey?style=for-the-badge&logo=jupyter&logoColor=orange) - 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=black) - 
-
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
-
-
-## 🐦 Latest Tweet
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://gtce.itsvg.in/api?username=callmelokzy)](https://twitter.com/callmelokzy)
-&nbsp;&nbsp;
-## <h3 align="left">Support:</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a><br><br>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=callmelokzy&theme=minimal">
+## <h3 align="left">Support:</h3> <a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a><br><br>
 
