@@ -46,7 +46,7 @@
 
 
 - 💻 OS 🔝 <br><br>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red">  <img src="https://img.shields.io/badge/Backbox-skyblue?style=for-the-badge&logo=ubuntu&logoColor=red"> <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/parrotos-darkgreen?style=for-the-badge&logo=debian&logoColor=red"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 - 💻 Virtualization 🔝 <br><br>
