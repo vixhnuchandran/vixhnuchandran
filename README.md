@@ -37,9 +37,6 @@
 ](https://leetcode.com/callmelokzy/) [<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">](https://www.hackerearth.com/@callmelokzy) [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/callmelokzy) 
 
 ### 💫 Tech Stack:
-- 💻 Workspace Spec  🔝 <br><br>
-<img src="https://img.shields.io/badge/lenovo%20legion5-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"> <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> 
-
 
  - 👨‍💻 Languages 🔝 <br><br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
