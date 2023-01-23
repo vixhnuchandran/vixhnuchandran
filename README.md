@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmelokzy&theme=vue"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmelokzy">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=callmelokzy"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy">
+
 
 
 
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
 
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=callmelokzy"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=callmelokzy&theme=minimal">
 <h3 align="left">Support:</h3> <a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a><br><br>
 
