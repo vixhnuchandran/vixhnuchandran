@@ -10,7 +10,7 @@
 
 
 ### 💫 About Me:
-🥷🏽 Certified Penetration Tester | Python coder | Currently Learning Wireless Pentesting & WebDev | Lazy and dumb
+🥷🏽 Certified Penetration Tester | Python coder | Currently Learning Wireless Pentesting & Front-End Development | Lazy and dumb
 
 - 🐞 Bug Bounty Platforms 🏹 <br><br>
 [<img src="https://img.shields.io/badge/hackerone-111927?style=for-the-badge&logo=hackerone&logoColor=white">](https://hackerone.com/callmelokzy?type=user)
