@@ -15,7 +15,7 @@
 
 #
 <details>
-<summary>Currently Learning </summary>
+<summary>👇🏿 Currently Learning </summary>
 <br>
 <img align="left" src="https://img.shields.io/badge/WIRELESS-PENTETSING-red?style=for-the-badge">
 <img  align="left" src="https://img.shields.io/badge/frontend-development-green?style=for-the-badge">
@@ -23,13 +23,13 @@
 </details>
 <!--START_SECTION:waka-->
 <details ✔️>
-<summary>Coding Activity </summary>
+<summary>👇🏿 Coding Activity </summary>
 <br>
 <img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/a3238e31-7902-4288-8062-491bd16469b4.png"  height="500">
 </details>
 
 <details >
-<summary>Language Statistics </summary>
+<summary>👇🏿 Language Statistics </summary>
 <br>
 <img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/09c7b7cc-0412-4392-94d2-91a424551f56.svg" height="500">
 </details>
@@ -55,7 +55,7 @@
 ## Platforms In
 
 <details >
-<summary>Bug Bounty Platforms🐞🏹</summary>
+<summary>👇🏿 Bug Bounty Platforms🐞🏹</summary>
 <br> 
  
  [<img align="left"  src="https://img.shields.io/badge/hackerone-111927?style=for-the-badge&logo=hackerone&logoColor=white">](https://hackerone.com/callmelokzy?type=user)
@@ -67,7 +67,7 @@
 
 
 <details >
-<summary>Security Platforms🛡️🥷</summary>
+<summary>👇🏿 Security Platforms🛡️🥷</summary>
 <br> 
 
 [<img align="left" src="https://img.shields.io/badge/TRYHACKME-557C94?style=for-the-badge&logo=tryhackme&logoColor=white">](https://tryhackme.com/p/lokzy) [<img align="left" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">](https://app.hackthebox.com/profile/1071230) [<img align="left" src="https://img.shields.io/badge/portswigger-E95420?style=for-the-badge&logo=portswigger&logoColor=orange">](https://medium.com/@callmelokzy) 
@@ -75,7 +75,7 @@
 </details>
 
 <details >
-<summary>Coding Platforms  👨‍🚀🔝</summary>
+<summary>👇🏿 Coding Platforms  👨‍🚀🔝</summary>
 <br> 
  
 [<img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
