@@ -14,7 +14,7 @@
 ](https://dev.to/callmelokzy)
 
 #
-<details open>
+<details>
 <summary>Currently Learning </summary>
 <br>
 <img align="left" src="https://img.shields.io/badge/WIRELESS-PENTETSING-red?style=for-the-badge">
@@ -22,13 +22,13 @@
  <br>
 </details>
 <!--START_SECTION:waka-->
-<details open>
+<details ✔️>
 <summary>Coding Activity </summary>
 <br>
 <img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/a3238e31-7902-4288-8062-491bd16469b4.png"  height="500">
 </details>
 
-<details open>
+<details >
 <summary>Language Statistics </summary>
 <br>
 <img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/09c7b7cc-0412-4392-94d2-91a424551f56.svg" height="500">
@@ -54,7 +54,7 @@
 
 ## Platforms In
 
-<details open>
+<details >
 <summary>Bug Bounty Platforms🐞🏹</summary>
 <br> 
  
@@ -66,7 +66,7 @@
 </details>
 
 
-<details open>
+<details >
 <summary>Security Platforms🛡️🥷</summary>
 <br> 
 
@@ -74,7 +74,7 @@
  </br>
 </details>
 
-<details open>
+<details >
 <summary>Coding Platforms  👨‍🚀🔝</summary>
 <br> 
  
