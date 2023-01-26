@@ -4,11 +4,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-<img
-  src="https://github.com/callmekozy/Netzer/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmelokzy&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmelokzy&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmelokzy&theme=github)
