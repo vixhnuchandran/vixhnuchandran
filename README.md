@@ -1,16 +1,33 @@
+![image](https://user-images.githubusercontent.com/56486732/214925865-54e91283-97fc-411c-8ae6-d16310765104.png)
+
 <h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /></h1>
 <h3 align="center">A passionate Cyber Security Researcher from India </h3>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmelokzy&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmelokzy&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmelokzy&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmelokzy&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=callmelokzy&theme=github&utcOffset=8)
+<div> 
+<!--START_SECTION:waka-->
+<details open>
+<summary>Coding Activity </summary>
+<br>
+<img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/a3238e31-7902-4288-8062-491bd16469b4.png"  height="500">
+
+</details>
 
 
+
+<details open>
+<summary>Language Statistics </summary>
+<br>
+<img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/09c7b7cc-0412-4392-94d2-91a424551f56.svg" height="500">
+</details>
+<!--ENS_SECTION:waka-->
+---
+-
+--
+
+</d
 
 ### 💫 About Me:
 🥷🏽 Certified Penetration Tester | Python coder | Currently Learning Wireless Pentesting & Front-End Development | Lazy and dumb
@@ -56,7 +73,15 @@
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmelokzy&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmelokzy&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmelokzy&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=callmelokzy&theme=github&utcOffset=8)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=callmelokzy&theme=minimal">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=callmelokzy&theme=github)
+
+
 <h3 align="left">Support:</h3> <a href="https://www.buymeacoffee.com/callmelokzy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="callmelokzy" /></a><br><br>
 
