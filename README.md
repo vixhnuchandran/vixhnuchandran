@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /></h1>
 
 <h4 align="center">
-🥷🏽 Certified Penetration Tester | 🐍Python coder | 🥱Lazy and 🤪dumb
+🥷🏽 Certified Penetration Tester | 🐍Python coder | 🤪dumb
 </h4>
 
 [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/callmelokzy) 
