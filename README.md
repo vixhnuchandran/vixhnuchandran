@@ -1,4 +1,4 @@
-<img align="left" width="350" height="350" src="https://avatars.githubusercontent.com/u/56486732?s=400&u=c56788012d1cae48505157095e37b7c017389cf8&v=4">
+<img align="left" width="330" height="330" src="https://avatars.githubusercontent.com/u/56486732?s=400&u=c56788012d1cae48505157095e37b7c017389cf8&v=4">
 
 <h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /></h1>
 
