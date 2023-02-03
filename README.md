@@ -3,14 +3,11 @@
 <h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /></h1>
 
 <h4 align="center">
-🥷🏽 Certified Penetration Tester | 🐍Python coder | 🤪dumb
-</h4>
+🥷🏽 Certified Penetration Tester | 🐍Programmer |  </h4> 
 
-[<img alighn="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/callmelokzy/)  [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/callmelokzy) 
-[<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/callmelokzy/) 
+ [<img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/callmelokzy) 
 [<img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@callmelokzy) &nbsp;&nbsp;
-[<img align="left" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
-](https://dev.to/callmelokzy)
+
 
 #
 <details>
