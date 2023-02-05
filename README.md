@@ -1,4 +1,4 @@
-<img align="left" width="330" height="336" src="https://user-images.githubusercontent.com/56486732/216799449-33c967f7-3c6e-4061-84c3-9d81c21804fa.jpg">
+<img align="left" width="330" height="360" src="https://user-images.githubusercontent.com/56486732/216799449-33c967f7-3c6e-4061-84c3-9d81c21804fa.jpg">
 
 <h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /></h1>
 
