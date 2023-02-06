@@ -11,7 +11,7 @@
 <summary>👇🏿 Currently Learning </summary>
 <br>
 <img align="left" src="https://img.shields.io/badge/WIRELESS-PENTETSING-red?style=for-the-badge">
-<img  align="left" src="https://img.shields.io/badge/frontend-development-green?style=for-the-badge">
+<img  align="left" src="https://img.shields.io/badge/REACT.JS-green?style=for-the-badge">
  <br>
 </details>
 <!--START_SECTION:waka-->
