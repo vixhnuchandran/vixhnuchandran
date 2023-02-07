@@ -7,7 +7,7 @@
 
  [<img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/callmelokzy) 
 [<img align="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@callmelokzy) &nbsp;&nbsp;
-<details open >
+<details >
 <summary>👇🏿 Currently Learning </summary>
 <br>
 <img align="left" src="https://img.shields.io/badge/WIRELESS-PENTETSING-red?style=for-the-badge">
