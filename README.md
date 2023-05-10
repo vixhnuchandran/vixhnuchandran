@@ -6,26 +6,8 @@ CERTIFIED PENETRATION TESTER  </h1>
  [<img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ivishnujs) 
 [<img align="" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@ivishnujs) &nbsp;&nbsp;
 <details open >
-<summary>👇🏿 Currently Learning </summary>
-<br>
-<img align="left" src="https://img.shields.io/badge/WIRELESS-PENTETSING-red?style=for-the-badge">
-<!-- <img  align="left" src="https://img.shields.io/badge/REACT.JS-green?style=for-the-badge"> -->
- <br>
-</details>
-<!--START_SECTION:waka-->
-<details ✔️>
-<summary>👇🏿 Coding Activity </summary>
-<br>
-<img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/a3238e31-7902-4288-8062-491bd16469b4.png"  height="500">
-</details>
 
-<details >
-<summary>👇🏿 Language Statistics </summary>
-<br>
-<img src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/09c7b7cc-0412-4392-94d2-91a424551f56.svg" height="500">
-</details>
-<!--ENS_SECTION:waka-->
-<br>
+
 
 ## Languages 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/bashscript-black?style=for-the-badge&logo=linux&logoColor=white">
