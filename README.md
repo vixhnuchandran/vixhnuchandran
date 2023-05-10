@@ -43,43 +43,6 @@ CERTIFIED PENETRATION TESTER </h4>  </h1>
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
 
-## Platforms In
-
-<details >
-<summary>👇🏿 Bug Bounty Platforms🐞🏹</summary>
-<br> 
- 
- [<img align="left"  src="https://img.shields.io/badge/hackerone-111927?style=for-the-badge&logo=hackerone&logoColor=white">](https://hackerone.com/callmelokzy?type=user)
-[<img align="left"  src="https://img.shields.io/badge/bugcrowd-E95420?style=for-the-badge&logo=bugcrowd&logoColor=white">](https://medium.com/@callmelokzy)
-[<img align="left" src="https://img.shields.io/badge/bugbase-2EC866?style=for-the-badge&logo=bug&logoColor=green">](https://bugbase.in/profile/callmelokzy)
-
- </br>
-</details>
-
-
-<details >
-<summary>👇🏿 Security Platforms🛡️🥷</summary>
-<br> 
-
-[<img align="left" src="https://img.shields.io/badge/TRYHACKME-557C94?style=for-the-badge&logo=tryhackme&logoColor=white">](https://tryhackme.com/p/lokzy) [<img align="left" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00">](https://app.hackthebox.com/profile/1071230) [<img align="left" src="https://img.shields.io/badge/portswigger-E95420?style=for-the-badge&logo=portswigger&logoColor=orange">](https://medium.com/@callmelokzy) 
- </br>
-</details>
-
-<details >
-<summary>👇🏿 Coding Platforms  👨‍🚀🔝</summary>
-<br> 
- 
-[<img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-](https://www.hackerrank.com/lokzy) 
-[<img align="left" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-](https://leetcode.com/callmelokzy/) [<img align="left" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">](https://www.hackerearth.com/@callmelokzy) [<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white">](https://www.codewars.com/users/callmelokzy) 
-
- </br>
-</details>
-
-
-
-
 ## Git Stats
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callmelokzy&theme=github"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=callmelokzy&theme=github"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=callmelokzy&theme=github"> <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=callmelokzy&theme=github&utcOffset=8"> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=callmelokzy">
 
