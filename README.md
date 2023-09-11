@@ -5,6 +5,7 @@ CERTIFIED PENETRATION TESTER  </h1>
 ![Picsart_23-06-21_15-47-40-181](https://github.com/callmelokzy/callmelokzy/assets/56486732/ecea73d0-ba35-47c7-9c03-39ea3bb4eb15)
 
 
+## Domain of Knowledge
 
 
 ## Languages 
