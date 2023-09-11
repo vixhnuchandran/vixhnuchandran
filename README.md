@@ -1,5 +1,11 @@
-<!-- <img align="left" src="https://user-images.githubusercontent.com/56486732/222443064-c9971d2a-f74a-4b97-bc75-651103a48cf8.jpg"> -->
-<h1 align="center">Hi 👋, I'm Lokzy <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /><h4 align="center">
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="bbb" /></a>
+</p>
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=callmelokzy&label=Profile%20views&color=0e75b6&style=flat" alt="callmelokzy" /><h4 align="center">
 CERTIFIED PENETRATION TESTER  </h1>
 
 ![Picsart_23-06-21_15-47-40-181](https://github.com/callmelokzy/callmelokzy/assets/56486732/ecea73d0-ba35-47c7-9c03-39ea3bb4eb15)
