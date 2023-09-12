@@ -42,7 +42,7 @@
       <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a> -->
-</p><br/>
+</p>
 
 
   <h3>👨‍💻 Languages</h3>
@@ -53,7 +53,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-  </p><br/>
+  </p>
 
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -62,7 +62,7 @@
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  </p><br/>
+  </p>
 
 
   <h3>💻 Software and Tools</h3>
@@ -77,7 +77,7 @@
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/VMWare-0081CB.svg?logo=vmware&logoColor=white"></a>
       <a href="#"><img alt="Virtual-Box" src="https://img.shields.io/badge/-Virtualbox-E8E8E8?logo=virtualbox&logoColor=black"></a
 
-  </p><br/>
+  </p>
 
 <br/><hr/>
 
