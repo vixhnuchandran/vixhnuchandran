@@ -1,13 +1,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20AI%20realm%20%20;%20Exploring%20the%20endless%20possibilities%20of%20AI%20%20;%20Stepping%20into%20the%20AI%20labyrinth;&font=Fira%20Code&center=true&width=800&height=40&color=bd2c00&vCenter=true&pause=1000&size=26" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20AI%20realm%20%20;%20Exploring%20the%20endless%20possibilities%20of%20AI%20%20;%20Stepping%20into%20the%20AI%20labyrinth;&font=Fira%20Code&center=true&width=800&height=40&color=4078c0&vCenter=true&pause=1000&size=26" />
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=CERTIFIED%20PENETRATION%20TESTER&font=Fira%20Code&center=true&width=480&height=45&color=6cc644&vCenter=true&pause=30000&size=16" /></a>
-  <h1 align="center"> Hey! 👋 I'm Lokzy </h1></p>
+ </p>
+ <p> 
+<h1 align="center"> Hey! 👋 I'm Lokzy </h1>
 A certified penetration tester and part-time bug bounty hunter. My passion for cybersecurity has led me to explore the ever-evolving world of digital vulnerabilities and security solutions. Beyond my cybersecurity pursuits, I am currently diving into the fascinating realm of Artificial Intelligence, eager to unlock its endless possibilities. I approach each new challenge with enthusiasm and a hunger for knowledge, believing that continuous learning is the key to staying at the forefront of technology and innovation.</a>
 
-#
-
+</p>
 <!-- Social icons section -->
 <p align="center">
 <a href="https://medium.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="callmelokzy" height="30" width="40" /></a>
@@ -15,22 +16,13 @@ A certified penetration tester and part-time bug bounty hunter. My passion for c
 <a href="https://linkedin.com/in/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="callmelokzy" height="30" width="40" /></a>
 <a href="https://instagram.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callmelokzy" height="30" width="40" /></a>
 <a href="https://twitter.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmelokzy" height="30" width="40" /></a>
-
-
-
-
 </p>
 
-<br/>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/DenverCoder1?tab=followers">
