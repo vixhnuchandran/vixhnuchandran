@@ -21,10 +21,10 @@
  <div style="display: flex; justify-content: center;">
    <p align="center">
        <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/callmelokzy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  </a>    <img alt="profile-view" src="https://komarev.com/ghpvc/?username=callmelokzy&color=blueviolet" style="max-width: 115px; height: auto;" />
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ivishnujs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  </a>    <img alt="profile-view" src="https://komarev.com/ghpvc/?username=ivishnujs&color=blueviolet" style="max-width: 115px; height: auto;" />
      <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/callmelokzy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ivishnujs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p> </div>
 
 <br/>
