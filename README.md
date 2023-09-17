@@ -7,10 +7,10 @@
   </
 <!-- Social icons section -->
 <p align="center">
-<a href="https://callmelokzy.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="callmelokzy" height="30" width="40" /></a>
-<a href="https://dev.to/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="callmelokzy" height="30" width="40" /></a>
-<a href="https://instagram.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="callmelokzy" height="30" width="40" /></a>
-<a href="https://twitter.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmelokzy" height="30" width="40" /></a>
+<a href="https://vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vixhnuchandran" height="30" width="40" /></a>
+<a href="https://dev.to/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vixhnuchandran" height="30" width="40" /></a>
+<a href="https://instagram.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vixhnuchandran" height="30" width="40" /></a>
+<a href="https://twitter.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vixhnuchandran" height="30" width="40" /></a>
 
 </p>
 
@@ -21,15 +21,17 @@
  <div style="display: flex; justify-content: center;">
    <p align="center">
        <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ivishnujs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  </a>    <img alt="profile-view" src="https://komarev.com/ghpvc/?username=ivishnujs&color=blueviolet" style="max-width: 115px; height: auto;" />
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vixhnuchandran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  </a>    <img alt="profile-view" src="https://komarev.com/ghpvc/?username=vixhnuchandran&color=blueviolet" style="max-width: 115px; height: auto;" />
      <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ivishnujs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vixhnuchandran?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </p> </div>
 
 <br/>
+  <img align="right" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/c5a7abaf-a352-4d4a-9855-8294c69b6d76.svg" height="450" width="550"/>
 
-<h3> 🌐Domain of Knowledge <h3/>
+
+<h3> 🌐Domain of Knowledge <h3/> 
 <p>
       <a href="#"><img alt="WebApp Pentesting" src="https://img.shields.io/badge/WebApp Pentesting-327FC7.svg?logo=app&logoColor=white"></a>
       <a href="#"><img alt="Wireless Pentesting" src ="https://img.shields.io/badge/Wireless Pentesting-4ea94b.svg?logo=net&logoColor=white"></a>
@@ -80,22 +82,18 @@
   </p>
 
 <br/><hr/>
-
-
 <h2>📊 Github Stats and Activity</h2>
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="Lokzy's streak" alt="Lokzy's streak" src="https://streak-stats.demolab.com/?user=vixhnuchandran&theme=monokai-metallian&hide_border=true"/>
-    </a>  </p>
+    </a> 
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lokzy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vixhnuchandran&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lokzy's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixhnuchandran&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  align="right" alt="Lokzy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=vixhnuchandran&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
