@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20AI%20realm%20%20;Exploring%20the%20endless%20possibilities%20of%20AI%20%20;Stepping%20into%20the%20AI%20labyrinth;&font=Righteous&center=true&width=800&height=40&color=6cc644&vCenter=true&pause=1000&size=30" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lokzy+!;" /> </h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Vishnu%20Chandran;%20aka%20Lokzy+!" /> </h1>
  <p> A certified penetration tester and part-time bug bounty hunter. My passion for cybersecurity has led me to explore the ever-evolving world of digital vulnerabilities and security solutions. Beyond my cybersecurity pursuits, I am currently diving into the fascinating realm of Artificial Intelligence, eager to unlock its endless possibilities. I approach each new challenge with enthusiasm and a hunger for knowledge, believing that continuous learning is the key to staying at the forefront of technology and innovation. </p>
   </
 <!-- Social icons section -->
