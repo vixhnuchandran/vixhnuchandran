@@ -39,7 +39,7 @@
 <br/>
 
 <img align="centre" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/c5a7abaf-a352-4d4a-9855-8294c69b6d76.svg" />
-
+<!---
 <h3 align="center">🌐 Domain of Knowledge</h3>
 
 <p align="center">
@@ -83,7 +83,7 @@
 </p>
 
 <br/><hr/>
-
+-->
 <h2 align="center">📊 Github Stats and Activity</h2>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
