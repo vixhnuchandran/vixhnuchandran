@@ -87,10 +87,10 @@
 <h2 align="center">📊 Github Stats and Activity</h2>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<a href="https://github.com/Govind-S-B/Govind-S-B">
+<a href="https://github.com/vixhnuchandran/vixhnuchandran">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixhnuchandran&border_color=3a0ca3&bg_color=3a0ca3&text_color=d7e3fc&title_color=d7e3fc&langs_count=3" />
 </a>
-<a href="https://github.com/Govind-S-B/Govind-S-B">
+<a href="https://github.com/vixhnuchandran/vixhnuchandran">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vixhnuchandran&show_icons=true&line_height=27&count_private=true&border_color=3a0ca3&bg_color=3a0ca3&text_color=d7e3fc&title_color=d7e3fc" />
 </a>
 
