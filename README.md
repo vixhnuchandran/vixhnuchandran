@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  A certified penetration tester and part-time bug bounty hunter. My passion for cybersecurity has led me to explore the ever-evolving world of digital vulnerabilities and security solutions. Beyond my cybersecurity pursuits, I am currently diving into the fascinating realm of Artificial Intelligence, eager to unlock its endless possibilities. I approach each new challenge with enthusiasm and a hunger for knowledge, believing that continuous learning is the key to staying at the forefront of technology and innovation.
+A certified penetration tester with a strong dedication to the field of cybersecurity, boasting a wealth of experience spanning two years. My commitment to this realm extends to the active pursuit of web development, enhancing the bedrock of my knowledge. Concurrently, I enthusiastically participate in bug bounty programs across multiple platforms, all the while chronicling my journey and dispensing insights through my Medium publications. As an individual driven by the dynamic balance of creation and destruction, I build things and break stuffs.
 </p>
 
 <p align="center">
