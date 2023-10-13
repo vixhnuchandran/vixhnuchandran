@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://twitter.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vixhnuchandran" height="30" width="40" /></a>
+  <a href="https://exercism.org/profiles/vixhnuchandran" target="blank"><img align="center" src="https://github.com/vixhnuchandran/vixhnuchandran/assets/56486732/40dd195a-18be-4087-b68a-dc9b058e155e" alt="vixhnuchandran" height="30" width="40" /></a><a href="https://www.hackerrank.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="callmelokzy" height="30" width="40" /></a>
+  <a href="https://medium.com/@vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vixhnuchandran" height="30" width="40" /></a>
+  <a href="https://instagram.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vixhnuchandran" height="30" width="40" /></a>
 <a href="https://dev.to/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vixhnuchandran" height="30" width="40" /></a>
-<a href="https://twitter.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vixhnuchandran" height="30" width="40" /></a>
-<a href="https://instagram.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vixhnuchandran" height="30" width="40" /></a>
-<a href="https://medium.com/@vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vixhnuchandran" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/callmelokzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="callmelokzy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vixhnuchandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vixhnuchandran" height="30" width="40" /></a>
+
 </p>
 
 <!-- Social badges section -->
