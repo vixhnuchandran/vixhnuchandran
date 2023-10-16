@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center" color='white'>
-A certified penetration tester with a strong dedication to the field of cybersecurity, boasting a wealth of experience spanning two years. My commitment to this realm extends to the active pursuit of web development, enhancing the bedrock of my knowledge. Concurrently, I enthusiastically participate in bug bounty programs across multiple platforms, all the while chronicling my journey and dispensing insights through my Medium blogs. As an individual driven by the dynamic balance of creation and destruction,<br><b><i>" I build things and break stuffs "</i></b>
+A certified penetration tester with a strong dedication to the field of cybersecurity, with over one year of valuable experience,. My commitment to this realm extends to the active pursuit of web development, enhancing the bedrock of my knowledge. Concurrently, I enthusiastically participate in bug bounty programs across multiple platforms, all the while chronicling my journey and dispensing insights through my Medium blogs. As an individual driven by the dynamic balance of creation and destruction,<br><b><i>" I build things and break stuffs "</i></b>
 </p>
 
 <p align="center">
