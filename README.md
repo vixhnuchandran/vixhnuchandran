@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20WEB🕸️%20Dev👨‍💻%20%20;Exploring%20the%20CyberSecurity🕵🏿%20Realm%20for%20the%20past%202-years;Certified%20Penetration%20Tester%20;&font=Righteous&center=true&width=810&height=40&color=6cc644&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20WEB🕸️%20Dev👨‍💻%20%20;Exploring%20the%20CyberSecurity🕵🏿%20Realm%20over%201%22-year;Certified%20Penetration%20Tester%20;&font=Righteous&center=true&width=810&height=40&color=6cc644&vCenter=true&pause=1000&size=30" />
   </a>
 </div>
 
