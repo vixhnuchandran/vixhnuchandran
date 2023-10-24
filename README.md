@@ -1,13 +1,16 @@
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20WEB🕸️%20Dev👨‍💻%20%20;Exploring%20the%20CyberSecurity🕵🏿%20Realm%20over%201%22-year;Certified%20Penetration%20Tester%20;&font=Righteous&center=true&width=810&height=40&color=6cc644&vCenter=true&pause=1000&size=30" />
-  </a>
-</div>
+<img src="https://readme-typing-svg.demolab.com/?lines=Currently%20delving%20into%20the%20WEB🕸️%20Dev👨‍💻%20%20;Exploring%20the%20CyberSecurity🕵🏿%20Realm%20over%201%22-year;Certified%20Penetration%20Tester%20;&font=Righteous&center=true&width=810&height=40&color=6cc644&vCenter=true&pause=1000&size=27" />
+<img align="center" alt="Coding" width="50%" src="https://github.com/vixhnuchandran/vixhnuchandran/assets/56486732/7643d478-97e3-4442-a1d1-a1573b8b73dc">
 
+  <a align="left" href="https://github.com/DenverCoder1/readme-typing-svg">
+    
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Vishnu%20Chandran;%20aka%20Lokzy+!" />
 </h1>
+  </a>
 
+
+  
 <p align="center" color='white'>
 A certified penetration tester with a strong dedication to the field of cybersecurity, with over one year of valuable experience,. My commitment to this realm extends to the active pursuit of web development, enhancing the bedrock of my knowledge. Concurrently, I enthusiastically participate in bug bounty programs across multiple platforms, all the while chronicling my journey and dispensing insights through my Medium blogs. As an individual driven by the dynamic balance of creation and destruction,<br><b><i>" I build things and break stuffs "</i></b>
 </p>
@@ -36,10 +39,61 @@ A certified penetration tester with a strong dedication to the field of cybersec
     </a>
   </p>
 </div>
-
 <br/>
 
-<img align="left" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/c5a7abaf-a352-4d4a-9855-8294c69b6d76.svg" height="55%" width="50%"/>
+
+
+
+
+
+
+
+
+
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+      <img src="https://skillicons.dev/icons?i=python,javascript,bash,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,vercel,docker,codepen,mysql,mongo" />
+  <br>
+</div>
+<br/>
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>
+<h2 align="center">📊 Live Coding Time of Month </h2>
+<img align="center" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/520e4e25-7df7-4fa8-986f-01323785a386.svg"/>
+</p>
 <!---
 <h3 align="center">🌐 Domain of Knowledge</h3>
 
@@ -85,14 +139,15 @@ A certified penetration tester with a strong dedication to the field of cybersec
 
 <br/><hr/>
 -->
-<h2 align="right">📊 Github Stats and Activity</h2>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<h2 align="center">📊 Github Stats and Activity</h2>
+
 <a href="https://github.com/vixhnuchandran/vixhnuchandran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixhnuchandran&border_color=3a0ca3&bg_color=3a0ca3&text_color=d7e3fc&title_color=d7e3fc&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vixhnuchandran&border_color=3a0ca3&bg_color=3a0ca3&text_color=d7e3fc&title_color=d7e3fc&langs_count=3" />
 </a>
 <a href="https://github.com/vixhnuchandran/vixhnuchandran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vixhnuchandran&show_icons=true&line_height=27&count_private=true&border_color=3a0ca3&bg_color=3a0ca3&text_color=d7e3fc&title_color=d7e3fc" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vixhnuchandran&show_icons=true&line_height=27&count_private=true&border_color=3a0ca3&bg_color=3a0ca3&text_color=d7e3fc&title_color=d7e3fc" />
 </a>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
