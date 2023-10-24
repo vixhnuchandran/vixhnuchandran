@@ -39,7 +39,7 @@ A certified penetration tester with a strong dedication to the field of cybersec
 
 <br/>
 
-<img align="centre" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/c5a7abaf-a352-4d4a-9855-8294c69b6d76.svg" />
+<img align="left" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/c5a7abaf-a352-4d4a-9855-8294c69b6d76.svg" height="55%" width="50%"/>
 <!---
 <h3 align="center">🌐 Domain of Knowledge</h3>
 
@@ -85,7 +85,7 @@ A certified penetration tester with a strong dedication to the field of cybersec
 
 <br/><hr/>
 -->
-<h2 align="center">📊 Github Stats and Activity</h2>
+<h2 align="left">📊 Github Stats and Activity</h2>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <a href="https://github.com/vixhnuchandran/vixhnuchandran">
