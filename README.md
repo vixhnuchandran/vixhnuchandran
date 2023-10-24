@@ -85,7 +85,7 @@ A certified penetration tester with a strong dedication to the field of cybersec
 
 <br/><hr/>
 -->
-<h2 align="left">📊 Github Stats and Activity</h2>
+<h2 align="right">📊 Github Stats and Activity</h2>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <a href="https://github.com/vixhnuchandran/vixhnuchandran">
