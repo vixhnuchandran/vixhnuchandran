@@ -63,7 +63,7 @@ A certified penetration tester with a strong dedication to the field of cybersec
 
 <p>
   
-## Weekly Coding Time 📈
+## Last 7 Day's Coding Time 📈
 <img align="center" title="wakatime" src="https://wakatime.com/share/@a90dbf0d-7fde-496e-a643-16a15e93669b/fe5d797f-31d7-43db-8755-b561809043e4.svg" width=50% height=50%/>
 </p>
 
