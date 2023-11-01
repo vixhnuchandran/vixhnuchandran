@@ -79,3 +79,8 @@ A certified penetration tester with a strong dedication to the field of cybersec
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Lokzy's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=vixhnuchandran&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## Medium-Recent-Articles 📝
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vixhnuchandran/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vixhnuchandran/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vixhnuchandran/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vixhnuchandran/1" alt="Recent Article 1"> 
