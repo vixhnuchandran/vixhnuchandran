@@ -34,7 +34,7 @@ A certified penetration tester with a strong dedication to the field of cybersec
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vixhnuchandran?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
     </a>
     <img alt="profile-view" src="https://komarev.com/ghpvc/?username=vixhnuchandran&color=blueviolet" style="max-width: 115px; height: auto;" />
-    <a>
+    <a href="https://github.com/vixhnuchandran?tab=repositories&sort=stargazers"> 
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/vixhnuchandran?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
     </a>
   </p>
