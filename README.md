@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vishnu</h1>
-<h3 align="center">JR. Fullstack Dev</h3>
+<!-- <h3 align="center">JR. Fullstack Dev</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vixhnuchandran&label=Profile%20views&color=0e75b6&style=flat" alt="vixhnuchandran" /> </p>
 
