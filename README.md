@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/vixhnuchandran" target="blank"><img src="https://img.shields.io/twitter/follow/vixhnuchandran?logo=twitter&style=for-the-badge" alt="vixhnuchandran" /></a> </p>
 
 - 📫 How to reach me **vixhnuchandran@gmail.com**
-
+- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
