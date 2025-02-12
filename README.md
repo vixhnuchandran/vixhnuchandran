@@ -5,4 +5,3 @@ Everything is here [🕮✍](https://vixhnuchandran.github.io/portfolio/)
 <img src="https://tryhackme-badges.s3.amazonaws.com/vixhnuchandran.png" alt="Your Image Badge" />
 <img src="https://www.hackthebox.eu/badge/image/1071230" alt="Your Image Badge" height="75"/>
 
-Buy me a coffee [☕︎♨](https://www.buymeacoffee.com/vixhnuchandran)
